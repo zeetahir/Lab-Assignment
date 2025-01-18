@@ -69,7 +69,7 @@ A **Queue** follows the **FIFO (First-In, First-Out)** principle, where elements
 - **Father's Name**: Muhammad Tahir Mehmood 
 - **Section**: A  
 - **Program**: BSCS (Evening)  
-🔗 **LinkedIn**: [Zeeshan Tahir](#)
+🔗 **LinkedIn**: [Zeeshan Tahir](www.linkedin.com/in/zeeshan-tahir-808834347)
 
 ### **Submitted To**
 - **Instructor**: Mr. Tajmir Khan  
